@@ -89,6 +89,6 @@ bash test_script.sh
 
 **Contributors**:
 
-**Walid Mehelba:** Initial version of the simple shell project.
+**Laila Mohamed:** Initial version of the simple shell project.
 
-**Laila Mohamed:** Contributions and enhancements to the project.
+**Walid Mehelba:** Contributions and enhancements to the project.
